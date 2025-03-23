@@ -21,10 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Learning
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyun5197&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=postick192)](https://solved.ac/postick192/)
